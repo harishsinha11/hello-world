@@ -1,2 +1,5 @@
 # hello-world
-just another repository
+
+Hello everyone!
+
+I am Harish. Trying to learn machine learning.
